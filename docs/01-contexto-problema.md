@@ -16,3 +16,8 @@ Desperdício de Alimentos
 
 - Público Afetado: pessoas de baixa renda, pessoas em situação de rua ou em situação de insegurança alimentar, incluindo famílias cadastradas no Cadúnico.
 - Fonte dos alimentos: Hortifruti, Restaurante
+
+## 3. Contextualização do problema 
+O desperdício de alimentos é um problema social e ambiental que ocorre em diferentes etapas da cadeia alimentar. Em hortifrutis, restaurantes e outros estabelecimentos, alimentos que ainda poderiam ser consumidos podem ser descartados por motivos como excesso de estoque, aparência inadequada ou proximidade da data de validade. Ao mesmo tempo, parte da população enfrenta dificuldades para ter acesso regular a alimentos suficientes e nutritivos.
+
+Dessa forma, existe uma contradição entre o desperdício de alimentos próprios para consumo e a presença de pessoas em situação de vulnerabilidade alimentar. O problema afeta principalmente famílias de baixa renda e outros grupos que possuem dificuldade para adquirir alimentos, enquanto também gera impactos ambientais e econômicos devido ao descarte desnecessário de recursos.
