@@ -1,8 +1,8 @@
-## 1. Idenditificação do projeto
-- Nome da equipe: [nome que vocês escolherem]
+## 1. Identificação do projeto
+- Nome da equipe: Equipe Barril Dobrado
 - Nome inicial do projeto: Do Excedente à Mesa
 - Integrantes: Kauan Victor, Lorenzo Paparoni, Mariana Sales
-- ODS 2 – Fome Zero e Agricultura Sustentável
+- ODS 2, Fome Zero e Agricultura Sustentável
 
 ## 2. Tema selecionado 
 
@@ -34,8 +34,14 @@ Para que o projeto seja viável dentro do tempo e do escopo do TI1, o trabalho n
 
 ## 6. Relação com o ODS
 A ODS 2, conhecida como “Fome Zero e Agricultura Sustentável”, tem como principais metas:
-Fim da fome: garantir que todas as pessoas tenham acesso a alimentos seguros, nutritivos e em quantidade suficiente.
-Fim da má nutrição: combater diferentes formas de desnutrição e problemas de saúde relacionados à falta de uma alimentação adequada.
-Agricultura sustentável: aumentar a produtividade e a renda dos pequenos produtores, utilizando métodos que contribuam para uma maior produção sem causar danos ao meio ambiente.
+- **Fim da fome:** garantir que todas as pessoas tenham acesso a alimentos seguros, nutritivos e em quantidade suficiente.
+- **Fim da má nutrição:** combater diferentes formas de desnutrição e problemas de saúde relacionados à falta de uma alimentação adequada.
+- **Agricultura sustentável:** aumentar a produtividade e a renda dos pequenos produtores, utilizando métodos que contribuam para uma maior produção sem causar danos ao meio ambiente.
+
 O encaminhamento de alimentos próprios para o consumo, que seriam descartados, para pessoas em situação de insegurança alimentar pode ajudar diversas famílias a terem uma alimentação melhor e mais adequada. Além disso, essa iniciativa pode contribuir para que essas pessoas tenham uma maior segurança financeira para comprar outros produtos essenciais, como itens de higiene, medicamentos e materiais básicos para o dia a dia.
 Em muitos casos, uma grande parte do pouco dinheiro conquistado por essas famílias é destinada à alimentação. Dessa forma, o projeto busca diminuir o desperdício de alimentos e, ao mesmo tempo, facilitar o acesso a uma alimentação adequada para pessoas em situação de vulnerabilidade. Assim, a proposta está diretamente relacionada à ODS 2 – Fome Zero e Agricultura Sustentável, que busca acabar com a fome e garantir o acesso de todas as pessoas a uma alimentação suficiente e de qualidade.
+
+## 7. Fontes consultadas
+[CNN Brasil](https://www.cnnbrasil.com.br/nacional/brasil-descarta-30-dos-alimentos-produzidos-diz-onu/)
+[CNN Brasil](https://www.cnnbrasil.com.br/nacional/brasil-e-um-dos-10-paises-que-mais-desperdicam-comida-revela-estudo-da-onu/)
+[Globo](https://g1.globo.com/empreendedorismo/noticia/2022/06/16/sustentabilidade-empresas-vendem-alimentos-proprios-para-consumo-mas-com-defeitos-ou-perto-do-vencimento.ghtml)
